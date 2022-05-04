@@ -2,6 +2,8 @@
 
 Tango style icons for GL-Inet Wireless routers (svg)
 
+![models](models.png)
+
 made with love by [@tixlegeek](https://twitter.com/tixlegeek) - https://tixlegeek.io 
 
 ## GL-Inet AR150
